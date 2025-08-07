@@ -18,7 +18,7 @@ Merci pour votre compréhension et vos retours !
 Vue d’ensemble de l’architecture
 1. Vision globale du projet
    
-<img width="2815" height="1836" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/6cd0db60-ad44-4572-8538-0fdb9c29e532" />
+<img width="2815" height="1837" alt="Untitled Diagram drawio (3)" src="https://github.com/user-attachments/assets/57e5b15f-cf7e-4ece-9329-fa764796fd81" />
 
 3. Infrastructure déployée sur AWS
    
