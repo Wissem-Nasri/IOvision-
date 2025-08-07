@@ -18,7 +18,7 @@ Merci pour votre compréhension et vos retours !
 Vue d’ensemble de l’architecture
 1. Vision globale du projet
    
-<img width="1074" height="632" alt="Architecture Globale" src="https://github.com/user-attachments/assets/cbaa6c2a-7c38-410c-8a45-9df297f184ed" />
+<img width="1362" height="874" alt="image" src="https://github.com/user-attachments/assets/a53443fb-50ee-43e1-b919-ad0d42d8eca6" />
 
 3. Infrastructure déployée sur AWS
    
