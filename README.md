@@ -3,7 +3,7 @@ IOvision
 🚧 Work In Progress — Architecture Draft 🚧
 
 Je suis actuellement en phase de conception de l’architecture finale de mon projet PFE.
-Le code et les fichiers disponibles dans ce repository constituent une première ébauche technique, visant à clarifier la vision globale et à présenter l’architecture cible.
+les architectures disponibles dans ce repository constituent une première ébauche technique, visant à clarifier la vision globale et à présenter l’architecture cible.
 
 Le livrable final comprendra :
 
