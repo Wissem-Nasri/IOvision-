@@ -3,8 +3,7 @@
 **Statut du projet : Terminé**
 
 ## Avis de confidentialité
-
-Ce projet a été réalisé dans un cadre académique. Conformément aux règles de confidentialité, **le code source complet (Terraform, Ansible, CI/CD, etc.) est privé et ne peut être partagé publiquement.**
+Conformément aux règles de confidentialité, **le code source complet (Terraform,, CI/CD, etc.) est privé et ne peut être partagé publiquement.**
 
 Les diagrammes ci-dessous présentent l'architecture et les concepts clés mis en œuvre. Je suis entièrement disponible pour discuter en détail de chaque aspect de ce projet, de mes choix techniques et des défis rencontrés lors d'un entretien.
 
